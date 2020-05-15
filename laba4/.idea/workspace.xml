@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf07a0fa-843a-47c4-a896-cb06299bafdd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab1/task1/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab1/task2/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab1/task2/SortParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab1/task3/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab1/task3/Catalogue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab1/task3/NoSuchBookException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab2/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab2/FoodType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab2/HerbivorousAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab2/OmnivorousAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab2/PredatoryAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab2/SecondLab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab3/ExecuteException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab3/builder/OwnStringBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab3/methods/AbstractAppend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab3/methods/AbstractInsert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab3/methods/AbstractMethodsOwnStringBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab3/methods/Append.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab3/methods/AppendCharArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab3/methods/AppendCharSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab3/methods/AppendCodePoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab3/methods/Delete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab3/methods/Insert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab3/methods/InsertCharArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab3/methods/InsertCharSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab3/methods/Replace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab3/methods/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab4/CommandLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab4/consolehelpers/ConsoleReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab4/consolehelpers/ConsoleWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab4/filehelpers/FileWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab5/FilePropertiesWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab6/MainController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab6/OwnLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab6/RegistrationAccounts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab6/TransactionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab6/base/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab6/base/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab6/exceptions/NoSuchAccountException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab6/exceptions/NotEnoughMoneyException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab6/exceptions/TransactionNotCompletedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab6/xmlfworkers/XMLFileCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab6/xmlfworkers/XMLFileParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab7/Alertable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab7/controllers/FifthLabController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab7/controllers/FirstLabController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab7/controllers/FourthLabController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab7/controllers/MainMenuController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab7/controllers/SecondLabController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab7/controllers/SixthLabController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab7/controllers/ThirdLabController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab7/fxmlflabs/FifthLab.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab7/fxmlflabs/FirstLab.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab7/fxmlflabs/FourthLab.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab7/fxmlflabs/MainMenu.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab7/fxmlflabs/SecondLab.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab7/fxmlflabs/SixthLab.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab7/fxmlflabs/ThirdLab.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semesters/third/lab7/fxmlflabs/UserInterface.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bJ1NTuhozgNttsOvQsOHK22db4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="AntRunConfiguration" nameIsGenerated="true">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf07a0fa-843a-47c4-a896-cb06299bafdd" name="Default Changelist" comment="" />
+      <created>1588335342218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588335342218</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="396" y="115" key="#Unnamed" timestamp="1589371660740">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="396" y="115" key="#Unnamed/0.0.1440.900@0.0.1440.900" timestamp="1589371660740" />
+    <state x="184" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589373251870">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1589373251870" />
+    <state x="184" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.813@0.23.1440.813" timestamp="1588335468259" />
+    <state x="457" y="204" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589371609187">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="204" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1589371609187" />
+    <state x="569" y="336" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588335363993">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="569" y="336" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.813@0.23.1440.813" timestamp="1588335363993" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1589373199080">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1589373199080" />
+  </component>
+</project>
